@@ -1,0 +1,12 @@
+{
+  "name": "cardapio-caixa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Guilherme Fernandes",
+  "license": "ISC",
+  "description": "Projeto criado para automatizar pedidos no restaurante do Caixa"
+}
